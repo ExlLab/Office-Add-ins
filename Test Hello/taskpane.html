@@ -23,7 +23,7 @@
         Excel.run(context => {
 
             // Insert text 'Hello world!' into cell A1.
-            context.workbook.worksheets.getActiveWorksheet().getRange("A1").values = [['Xin chào Việt Name!']];
+            context.workbook.worksheets.getActiveWorksheet().getRange("A1:A2").values = [['Xin chào Việt Nam!'], ['Đây là một thử nghiệm Office Add-ins.'] ];
 
             // sync the context to run the previous API call, and return.
             return context.sync();
