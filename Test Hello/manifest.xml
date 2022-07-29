@@ -9,8 +9,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Xin chào"/>
   <Description DefaultValue="Ví dụ thử nghiệm Office Add-ins."/>
-  <IconUrl DefaultValue="https://github.com/ExlLab/Office-Add-ins/tree/main/Test%20Hello/icon/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://github.com/ExlLab/Office-Add-ins/tree/main/Test%20Hello/icon/icon-64.png"/>
+  <IconUrl DefaultValue="https://raw.githubusercontent.com/ExlLab/Office-Add-ins/main/Test%20Hello/icon/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://raw.githubusercontent.com/ExlLab/Office-Add-ins/main/Test%20Hello/icon/icon-64.png"/>
   <SupportUrl DefaultValue="https://docs.microsoft.com/office/dev/add-ins/overview/office-add-in-code-samples"/>
   <AppDomains>
     <AppDomain>https://OfficeDev.github.io</AppDomain>
@@ -65,9 +65,9 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://github.com/ExlLab/Office-Add-ins/tree/main/Test%20Hello/icon/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://github.com/ExlLab/Office-Add-ins/tree/main/Test%20Hello/icon/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://github.com/ExlLab/Office-Add-ins/tree/main/Test%20Hello/icon/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://raw.githubusercontent.com/ExlLab/Office-Add-ins/main/Test%20Hello/icon/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://raw.githubusercontent.com/ExlLab/Office-Add-ins/main/Test%20Hello/icon/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://raw.githubusercontent.com/ExlLab/Office-Add-ins/main/Test%20Hello/icon/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="http://go.microsoft.com/fwlink/?LinkId=276812"/>
